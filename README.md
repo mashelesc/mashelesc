@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Comfort Mashele 
-- 👀 I’m a computer sciences and mathematics graduate 
 - 🌱 I’m currently learning artificial intelligence, machine learning, and data science
 - 💞️ I’m looking to collaborate on everything IT
 - 📫 How to reach me t.me/mashele_sc on telegram, and @mashele_sc on twitter 
